@@ -8,8 +8,8 @@ body {
   background-color: #f5f5f5;
 }
 
-.heading > h1 {
-  text-align: start;
+.heading > h2 {
+  text-align: center;
   color: white;
 }
 
@@ -30,7 +30,7 @@ body {
   text-align: center;
 }
 
-.pictorial-news-sections{
+.pictorial-news-section{
 width: 215px;
   text-align: center;
 }
@@ -41,4 +41,5 @@ h3{
 img {
   object-fit: cover;
   height: 100px;
+ padding-bottom:12px
 }
