@@ -16,6 +16,7 @@ body {
 .heading {
   background-color: #011e29;
   padding: 12px;
+	text-align: center;
 }
 
 .articles_cards {
